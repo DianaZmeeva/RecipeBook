@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="jsonWaitString">Wait</string>
+    <string name="jsonMessageString">Get information</string>
+    <string name="failString">Fail</string>
+    <string name="internetProblemString">Problem with Internet Connection</string>
+    <string name="dishNameString">Dish name</string>
+    <string name="descriptionString">Description:</string>
+    <string name="difficultyString">Difficulty:</string>
+    <string name="instructionsString">Instructions:</string>
+</resources>
